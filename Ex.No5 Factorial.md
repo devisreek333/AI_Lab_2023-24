@@ -23,7 +23,8 @@ factorial(A,B):-
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/26c37ffe-72c2-4c81-b12f-f7887622fd48)
+
+![image](https://github.com/user-attachments/assets/76e44854-c08b-423f-817b-13c8f1373d06)
 
 
 
