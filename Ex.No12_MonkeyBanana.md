@@ -81,9 +81,7 @@ Step 7: Stop the program.<br>
 )
 ```
 ### Output/Plan:
-
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/745bf41b-a273-4ac1-afdb-66cc0bfd42a9)
 
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
